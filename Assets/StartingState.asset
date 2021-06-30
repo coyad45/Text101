@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8eb4a04015a74b49b93870d0dd16181, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: "Te despiertas subitamente en un bosque, sin recordar como llegaste
+    al lugar. Lo primero que haces \r\nes mirar tu alrededor en busca de un punto
+    conocido o alguna pista de como llegaste a esta situacion. \r\n\r\n\xBFCual sera
+    tu siguiente movimiento para sobrevivir?\r\n\r\n1.- Camina mas profundo en el
+    bosque.\r\n2.- Buscar en tus cosas algo que sea de utilidad."
