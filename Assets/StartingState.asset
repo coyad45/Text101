@@ -17,3 +17,6 @@ MonoBehaviour:
     conocido o alguna pista de como llegaste a esta situacion. \r\n\r\n\xBFCual sera
     tu siguiente movimiento para sobrevivir?\r\n\r\n1.- Camina mas profundo en el
     bosque.\r\n2.- Buscar en tus cosas algo que sea de utilidad."
+  nextStates:
+  - {fileID: 11400000, guid: 1a60c9b424e09e34fb7a717956256012, type: 2}
+  - {fileID: 11400000, guid: 8bc0f873eb342f049add1ecc366745ef, type: 2}
