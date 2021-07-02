@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8eb4a04015a74b49b93870d0dd16181, type: 3}
+  m_Name: D.1 Usas la cuerda y haces un nudo lo cual lanzas para tratar encontrar
+    un punto de anclaje.
+  m_EditorClassIdentifier: 
+  storyText: "D.1 Usas la cuerda y haces un nudo lo cual lanzas para tratar encontrar
+    un punto de anclaje. Logras Anclar la cuerda luego de varios intento, logrando
+    asi salir por fin del pozo, agradeces a tu salvador.\r\n\xBFCu\xE1l ser\xE1 tu
+    siguiente movimiento para sobrevivir?\r\nD.2 Darle indicaciones al perro para
+    que te saque del bosque."
+  nextStates:
+  - {fileID: 11400000, guid: 91713a5482d60dc4abd25c1d318534f0, type: 2}

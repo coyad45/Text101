@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8eb4a04015a74b49b93870d0dd16181, type: 3}
+  m_Name: B.2.1- Vuelves a intentar pedir auxilio
+  m_EditorClassIdentifier: 
+  storyText: "B.2.1-Pides auxilio otras vez esperando que alguien esta vez te escuche
+    y venga a soc\xF3rrete. Pero no parece que nadie te escucho.\n\n\xBFCu\xE1l ser\xE1
+    tu siguiente movimiento para sobrevivir?\r\nB.2.2- Vuelves a intentar pedir auxilio...\r\nB.1-
+    Tratas de escalar la fosa usando la ra\xEDz del \xE1rbol que viste antes"
+  nextStates:
+  - {fileID: 11400000, guid: f1042b4bd38e57a48b7a365d2d3adec4, type: 2}
+  - {fileID: 11400000, guid: 3e5abaad6558f99448592382cc5546e1, type: 2}

@@ -12,5 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8eb4a04015a74b49b93870d0dd16181, type: 3}
   m_Name: "B.2-Pides auxilio esperando que alguien venga a soc\xF3rrete."
   m_EditorClassIdentifier: 
-  storyText: "B.2-Pides auxilio esperando que alguien venga a soc\xF3rrete."
-  nextStates: []
+  storyText: "B.2-Pides auxilio esperando que alguien venga a soc\xF3rrete. Pero
+    no parece que nadie o algo te escuche en el bosque que estas perdida.\r\n\n\xBFCu\xE1l
+    ser\xE1 tu siguiente movimiento para sobrevivir?\r\nB.2.1- Vuelves a intentar
+    pedir auxilio \r\nB.1- Tratas de escalar la fosa usando la ra\xEDz del \xE1rbol
+    que viste antes."
+  nextStates:
+  - {fileID: 11400000, guid: 8e1a86f5ecdcd374a936d4054dd202f5, type: 2}
+  - {fileID: 11400000, guid: 3e5abaad6558f99448592382cc5546e1, type: 2}
