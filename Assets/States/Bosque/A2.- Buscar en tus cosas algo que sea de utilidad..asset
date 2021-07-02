@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8eb4a04015a74b49b93870d0dd16181, type: 3}
+  m_Name: A2.- Buscar en tus cosas algo que sea de utilidad.
+  m_EditorClassIdentifier: 
+  storyText: "A2. -No te quieres adentrar en el bosque sin conocer tu entorno, as\xED
+    que buscas entre tus ropas algo de utilidad o al menos para encontrar informaci\xF3n
+    de como terminaste perdida.\r Dentro de tus bolsillos encuentras una nota junto
+    con unos cerillos.\r\n\n\xBFCu\xE1l ser\xE1 tu siguiente movimiento para sobrevivir?\r\nB3.-\r
+    Enciendes una cerilla y te adentras en el bosque.\nB4.- Lees la nota para obtener
+    algo de informacion sobre que esta sucediendo."
+  nextStates:
+  - {fileID: 11400000, guid: 89518ae563eb9fe4da89d6b3ffbd62c9, type: 2}
+  - {fileID: 11400000, guid: 28aa76a87469dd1449eeccb446a6db6c, type: 2}

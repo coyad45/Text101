@@ -1,9 +1,0 @@
-Story Sentences 
-
-	Te despiertas subitamente en un bosque, sin recordar como llegaste al lugar. Lo primero que haces 
-es mirar tu alrededor en busca de un punto conocido o alguna pista de como llegaste a esta situacion. 
-
-¿Cual sera tu siguiente movimiento para sobrevivir?
-
-1.- Camina mas profundo en el bosque.
-2.- Buscar en tus cosas algo que sea de utilidad.

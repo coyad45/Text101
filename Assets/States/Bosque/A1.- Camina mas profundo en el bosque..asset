@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8eb4a04015a74b49b93870d0dd16181, type: 3}
+  m_Name: A1.- Camina mas profundo en el bosque.
+  m_EditorClassIdentifier: 
+  storyText: "A1.- Te adentras mas en el bosque, mirando a tu alrededor para conseguir
+    un punto donde ubicarte o algo que resalte a la vista.\r\nYa que tu visi\xF3n
+    era muy reducida en la oscuridad ca\xEDste en un fosa de gran profundidad. Buscas
+    en la fosa una posibilidad para salir, divisas lo que puede ser una ra\xEDz de
+    un \xE1rbol que te podr\xEDa ayudar.\r\n\xBFCu\xE1l ser\xE1 tu siguiente movimiento
+    para sobrevivir?\r\n\r\nB.1- Tratas de escalar la fosa usando la ra\xEDz del
+    \xE1rbol.\r\nB.2-Pides auxilio esperando que alguien venga a soc\xF3rrete."
+  nextStates:
+  - {fileID: 11400000, guid: 3e5abaad6558f99448592382cc5546e1, type: 2}
+  - {fileID: 11400000, guid: 4bfc4e62da253b846be472d778deafda, type: 2}

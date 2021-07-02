@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8eb4a04015a74b49b93870d0dd16181, type: 3}
+  m_Name: A0. Introduccion
+  m_EditorClassIdentifier: 
+  storyText: "Welcome to this game.\n\nEs un escoge tu propia aventura. Ten cuidado
+    con lo que pides. \n\nEn cada nivel se te solicitara que presiones un boton en
+    el teclado, por ejemplo 1 o 2 hasta 3.\n\nPara empezar la historia. Presiona
+    \"1\".\n\nEn cualquier momento. Presiona \"q\" para salir."
+  nextStates:
+  - {fileID: 11400000, guid: 4f1cb9ca7d0a25340830d49eedb3a4d4, type: 2}

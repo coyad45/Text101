@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8eb4a04015a74b49b93870d0dd16181, type: 3}
+  m_Name: B3.- Enciendes una cerilla y te adentras en el bosque.
+  m_EditorClassIdentifier: 
+  storyText: "B3.- Vagas por el bosque sin direccion aparente intentando encontrar
+    la razon de por que llegaste ahi , pero al menos tiene una forma de guiarte y
+    evitar cualquier peligro que pueda resguardarse en la orscuridad.  Tienes frio
+    y hambre, si sigues sin rumbo podrias perderte por completo y sin posibilidad
+    de salir jamas de  este bosque. \r\n\xBFCu\xE1l ser\xE1 tu siguiente movimiento
+    para sobrevivir?\r\nC.1\r\nc.2"
+  nextStates: []
